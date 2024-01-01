@@ -1,24 +1,64 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import News from "./components/News";
+import Spinner from "./components/Spinner";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <Routes>
+        <Route
+          exact
+          path="/"
+          element={<News pageSize="9" category="general" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/business"
+          element={<News pageSize="9" category="business" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/entertainment"
+          element={<News pageSize="9" category="entertainment" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/health"
+          element={<News pageSize="9" category="health" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/science"
+          element={<News pageSize="9" category="science" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/sports"
+          element={<News pageSize="9" category="sports" />}
+        />
+      </Routes>
+      <Routes>
+        <Route
+          exact
+          path="/technology"
+          element={<News pageSize="9" category="technology" />}
+        />
+      </Routes>
+    </>
   );
 }
 

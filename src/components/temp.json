@@ -1,0 +1,137 @@
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Teenage boy killed in Australia shark attack",
+            "description": "His body was recovered from waters at a holiday and surfing hotspot in South Australia, police say.",
+            "url": "https://www.bbc.co.uk/news/world-australia-67832905",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C88/production/_132161479_gettyimages-1494570749.jpg",
+            "publishedAt": "2023-12-28T11:52:13.6898735Z",
+            "content": "A teenage boy has been killed in a shark attack at a popular holiday and surfing spot in South Australia, police have said. \r\nThe body was recovered from the water after the attack, near Ethel Beach … [+1414 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cher: Star 'files for conservatorship' for son Elijah",
+            "description": "Court documents seen by US media say Cher's son is suffering from drug abuse and mental health issues.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-67832513",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30E4/production/_132161521_gettyimages-105713575.jpg",
+            "publishedAt": "2023-12-28T11:37:17.135535Z",
+            "content": "Cher has reportedly filed for a conservatorship of her son Elijah Blue Allman due to his alleged substance abuse and mental health issues.\r\nCourt documents seen by US media, such as People and TMZ, r… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Colorado Republicans appeal against Donald Trump's 2024 ballot ban",
+            "description": "It means Mr Trump is still running in the state's Republican primary contest until the US Supreme Court rules.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67832651",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/560A/production/_132162022_trump-index4-reuters.jpg",
+            "publishedAt": "2023-12-28T11:22:15.3306665Z",
+            "content": "Colorado Republicans have appealed to the US Supreme Court after the state's top court ruled that Donald Trump was ineligible to run for president. \r\nThe appeal means he will remain for now on the ba… [+2074 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel-Gaza war latest: Israel expands central and south Gaza offensive",
+            "description": "The attacks are reported to have happened in Beit Lahia, Khan Younis and Maghazi.",
+            "url": "https://www.bbc.co.uk/news/live/world-middle-east-67831997",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-12-28T10:22:27.2998919Z",
+            "content": "Israeli troops near the border with LebanonImage caption: Israeli troops near the border with Lebanon\r\nTheres been increased cross-border fighting between Israel and\r\nthe Lebanese armed group Hezboll… [+685 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Swat team tears open lorry to arrest driver",
+            "description": "Police had stopped the lorry, but the driver refused to get out of the vehicle.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67832595",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B72/production/_132160572_p0h1wmcf.jpg",
+            "publishedAt": "2023-12-28T09:22:16.5335991Z",
+            "content": "Police have deployed an armoured vehicle to pry open the cabin of a lorry on a motorway in Texas.\r\nThe driver refused to stop, or get out of the cab when officers used spike strips to stop the vehicl… [+461 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "World's tallest wooden wind turbine starts turning",
+            "description": "Wood and glue is better for the environment than steel, says manufacturer, and could see taller turbines.",
+            "url": "https://www.bbc.co.uk/news/science-environment-67718719",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E1D/production/_132110951_modvion5-23.jpg",
+            "publishedAt": "2023-12-28T07:52:16.9720159Z",
+            "content": "What is made from the same wood as a Christmas tree, held together by glue and manufactured in a Swedish factory for assembly later? \r\nIf that calls to mind flat-pack furniture and meatballs, you're … [+6605 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Does attack on Russian ship make a difference?",
+            "description": "The destruction of the Novocherkassk landing ship was certainly spectacular, but was it significant?",
+            "url": "https://www.bbc.co.uk/news/world-europe-67826487",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4A14/production/_132146981_ship_2panel_maxar.jpg",
+            "publishedAt": "2023-12-28T07:52:15.6598441Z",
+            "content": "It was an explosion which filled the sky and lifted Ukrainian morale.\r\nFor Kyiv, the sight of Russia's Novocherkassk landing ship being hit in an air strike was a much-needed boost. \r\nWith Russia gai… [+3871 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russian celebs at 'almost naked' party stung by backlash",
+            "description": "Some of Russia's best-known celebrities apologise as criticism of their behaviour spreads on social media.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67827443",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16372/production/_132149909_kirkorov.png",
+            "publishedAt": "2023-12-28T07:52:13.877301Z",
+            "content": "This is Partygate: Russia-style.\r\nWhat happened at a Moscow nightclub was bizarre. What happened next says so much about the current atmosphere in Russia. \r\nOn 20 December, blogger and TV presenter N… [+3998 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel Gaza war: Israeli minister warns Hezbollah over border fighting",
+            "description": "Cross-border exchanges of fire have been escalating since Hamas's attacks on Israel on 7 October.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-67831478",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D4EA/production/_132160545_borderafp.jpg",
+            "publishedAt": "2023-12-28T06:07:13.6750707Z",
+            "content": "Israel's military will act to remove Hezbollah from the border with Lebanon if its attacks continue, an Israeli minister has warned.\r\nBenny Gantz said the IDF would intervene if the world and the Leb… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US approves $250m in military aid to Ukraine",
+            "description": "The funds are the final tranche of aid the White House can allocated without fresh approval from Congress.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67830918",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/163AF/production/_131955019_f3aa4b9479f35730ade6e8044a14c6ea0942183f0_450_7441_41862000x1125.jpg",
+            "publishedAt": "2023-12-27T23:52:13.1805219Z",
+            "content": "The White House approved another tranche of US military aid to Ukraine worth some $250m (£195m) on Wednesday. \r\nUS officials said that the latest package included air defence, artillery and small arm… [+2729 chars]"
+        }
+    ]
+}
